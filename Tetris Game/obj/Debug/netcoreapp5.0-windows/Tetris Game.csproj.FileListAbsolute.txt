@@ -1,0 +1,16 @@
+C:\Users\sexyshit\c#\Tetris Game\Tetris Game\bin\Debug\netcoreapp5.0-windows\Tetris Game.deps.json
+C:\Users\sexyshit\c#\Tetris Game\Tetris Game\bin\Debug\netcoreapp5.0-windows\Tetris Game.dll
+C:\Users\sexyshit\c#\Tetris Game\Tetris Game\bin\Debug\netcoreapp5.0-windows\ref\Tetris Game.dll
+C:\Users\sexyshit\c#\Tetris Game\Tetris Game\bin\Debug\netcoreapp5.0-windows\Tetris Game.pdb
+C:\Users\sexyshit\c#\Tetris Game\Tetris Game\obj\Debug\netcoreapp5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\sexyshit\c#\Tetris Game\Tetris Game\obj\Debug\netcoreapp5.0-windows\Tetris Game_MarkupCompile.cache
+C:\Users\sexyshit\c#\Tetris Game\Tetris Game\obj\Debug\netcoreapp5.0-windows\Tetris Game_MarkupCompile.lref
+C:\Users\sexyshit\c#\Tetris Game\Tetris Game\obj\Debug\netcoreapp5.0-windows\Themes\Generic.baml
+C:\Users\sexyshit\c#\Tetris Game\Tetris Game\obj\Debug\netcoreapp5.0-windows\Tetris Game.g.resources
+C:\Users\sexyshit\c#\Tetris Game\Tetris Game\obj\Debug\netcoreapp5.0-windows\Tetris Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sexyshit\c#\Tetris Game\Tetris Game\obj\Debug\netcoreapp5.0-windows\Tetris Game.AssemblyInfoInputs.cache
+C:\Users\sexyshit\c#\Tetris Game\Tetris Game\obj\Debug\netcoreapp5.0-windows\Tetris Game.AssemblyInfo.cs
+C:\Users\sexyshit\c#\Tetris Game\Tetris Game\obj\Debug\netcoreapp5.0-windows\Tetris Game.csproj.CoreCompileInputs.cache
+C:\Users\sexyshit\c#\Tetris Game\Tetris Game\obj\Debug\netcoreapp5.0-windows\Tetris Game.dll
+C:\Users\sexyshit\c#\Tetris Game\Tetris Game\obj\Debug\netcoreapp5.0-windows\ref\Tetris Game.dll
+C:\Users\sexyshit\c#\Tetris Game\Tetris Game\obj\Debug\netcoreapp5.0-windows\Tetris Game.pdb

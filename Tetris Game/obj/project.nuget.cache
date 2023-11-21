@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2YBPS53paNTQUh/3WqMLmudkdoCPykkrVj2lxhtpqSC6lKpEQnEXRDQ5EkaTqOIVDzAjI7cz+pDX/HDKyzJsFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sexyshit\\c#\\Tetris Game\\Tetris Game\\Tetris Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sexyshit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\sexyshit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\sexyshit\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
